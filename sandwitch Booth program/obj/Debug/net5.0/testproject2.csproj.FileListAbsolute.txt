@@ -1,0 +1,16 @@
+/home/strawloki/Desktop/code/testproject2/bin/Debug/net5.0/testproject2
+/home/strawloki/Desktop/code/testproject2/bin/Debug/net5.0/testproject2.deps.json
+/home/strawloki/Desktop/code/testproject2/bin/Debug/net5.0/testproject2.runtimeconfig.json
+/home/strawloki/Desktop/code/testproject2/bin/Debug/net5.0/testproject2.runtimeconfig.dev.json
+/home/strawloki/Desktop/code/testproject2/bin/Debug/net5.0/testproject2.dll
+/home/strawloki/Desktop/code/testproject2/bin/Debug/net5.0/ref/testproject2.dll
+/home/strawloki/Desktop/code/testproject2/bin/Debug/net5.0/testproject2.pdb
+/home/strawloki/Desktop/code/testproject2/obj/Debug/net5.0/testproject2.csproj.AssemblyReference.cache
+/home/strawloki/Desktop/code/testproject2/obj/Debug/net5.0/testproject2.GeneratedMSBuildEditorConfig.editorconfig
+/home/strawloki/Desktop/code/testproject2/obj/Debug/net5.0/testproject2.AssemblyInfoInputs.cache
+/home/strawloki/Desktop/code/testproject2/obj/Debug/net5.0/testproject2.AssemblyInfo.cs
+/home/strawloki/Desktop/code/testproject2/obj/Debug/net5.0/testproject2.csproj.CoreCompileInputs.cache
+/home/strawloki/Desktop/code/testproject2/obj/Debug/net5.0/testproject2.dll
+/home/strawloki/Desktop/code/testproject2/obj/Debug/net5.0/ref/testproject2.dll
+/home/strawloki/Desktop/code/testproject2/obj/Debug/net5.0/testproject2.pdb
+/home/strawloki/Desktop/code/testproject2/obj/Debug/net5.0/testproject2.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/strawloki/.dotnet/store/|arch|/|tfm|",
+      "/home/strawloki/.nuget/packages"
+    ]
+  }
+}
